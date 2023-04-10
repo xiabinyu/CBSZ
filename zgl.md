@@ -53,7 +53,7 @@
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="30%" ></a>
 
 
-## 第一一四五一四章 绝凶！互联网下岗工血染华尔街！
+## 第一一四五一四章 絕兇！互聯網下崗工血染華爾街！
 
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl114515.jpg" width="30%" ></a>
 
