@@ -53,7 +53,7 @@
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="30%" ></a>
 
 
-## 第一一四五一四章 未來
+## 第一一四五一四章 绝凶！互联网下岗工血染华尔街！
 
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl114515.jpg" width="30%" ></a>
 
@@ -75,7 +75,7 @@
 2021年08月--至今        青蛙大学计算机科学专业
 
 工作经历\
-(大厂收集者)
+略(大厂收集者)
 
 情感经历\
 XXXX年XX月--XXXX年XX月  梅勒\
