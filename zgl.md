@@ -48,12 +48,12 @@
 
 ## 第二章
 
-<a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="30%" ></a>
+<a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="15%" ></a>
 
 
 ## 第一一四五一四章 絕兇！互聯網下崗工血染華爾街！
 
-<a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl114515.jpg" width="30%" ></a>
+<a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl114515.jpg" width="15%" ></a>
 
 專研國際匯市與原物料走勢以靈活的技術分析為主，解讀各國經濟數據為輔，借由長短期的均線技術指標與K線型態來研判走勢方向與進出場的時機點，分批進場布局，穩中求勝!
 
