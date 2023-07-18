@@ -48,6 +48,16 @@
 
 ## 第二章
 
+1998年年初的某一天
+
+37.5℃的张耕纶正在激流勇进
+
+拖着长长尾巴的他透过人生第一道屏障
+
+此时他崭新的人生正在成型
+
+命运的齿轮开始转动
+
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="15%" ></a>
 
 ## 第三章 东宁抽奖超人
