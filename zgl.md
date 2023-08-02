@@ -227,17 +227,17 @@ G了\
 
 年過半百的張耕綸已經是一個成熟的台灣人了，眼前是衝擊波打擊后殘缺的實驗設備，耳畔是此起彼伏的槍聲，他回想起劉翠紅向他展示驗孕棒的那個遙遠的早晨。
 
-“Apple iNerve…… Connection Failed……”
+“Apple iNerve…………………………………………………… Connection Failed.”
 
 僅存的終端嘶啞著搜索可用的人工智能服務器。
 
-“Microsoft HeadLight…… Connection Failed……”
+“Microsoft HeadLight…………………………………………………………………… Connection Failed.”
 
-“Mihoyo Genshin III…… Connection Failed……”
+“Mihoyo Genshin III……………………………………………………… Connection Failed.”
 
 “Qsinghua University 北太天元……”
 
-“已連接”
+“已連接。”
 
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="30%" ></a>
 
