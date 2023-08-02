@@ -249,19 +249,19 @@ G了\
 
 “不利於團結的話不要講，告訴我該怎麽做。”
 
-“建議您使用位於203實驗室的Chronovisor VIII型”
+“建議您使用位於203實驗室的Chronovisor VIII型。”
 
 伴隨一陣巨響，蘋果公司大門被攻破。張耕綸慢慢走向了那間塵封已久的房間。
 
-“不懂就問”
+“不懂就問，”
 
-“Password…………C-r-i-a-g-s-u-c-k-s”
+“Password…………C-r-i-a-g-s-u-c-k-s”\
 “Biometric Identification…………Passed”
 
-“為什麼大家都喜歡靠我拯救世界”
+“為什麼大家都喜歡靠我拯救世界，”
 
-“Argument SafeMode = False…………………………”
-“Argument Destination = Date_Interval [1998-11,2050-08]………………”
+“Argument SafeMode = False…………………………”\
+“Argument Destination = Date_Interval [1998-11,2050-08]………………”\
 “Argument PowerLevel = 1.0…………………………”
 
 “我到底哪根毛讓大家覺得我能拯救世界了？"
