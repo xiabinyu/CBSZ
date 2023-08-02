@@ -104,7 +104,7 @@ G了\
 >2023/7/31\
 還挺想做的\
 但被拒了\
-只能說可惜吧\
+只能說可惜吧
 
 ## 第一章
 
@@ -155,6 +155,10 @@ G了\
 此时他崭新的人生正在成型
 
 命运的齿轮开始转动
+
+<a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/chapter3_1.jpeg" width="15%" ></a>
+
+左七为张耕纶
 
 <a href="url"><img src="https://github.com/xiabinyu/CBSZ/blob/main/zgl2.jpg" width="15%" ></a>
 
@@ -244,4 +248,4 @@ G了\
 2013年11月--2014年02月&nbsp;  &nbsp;  李丽珍\
 2015年00月--2018年00月&nbsp;  &nbsp;  廖品容\
 2021年10月--2023年03月&nbsp;  &nbsp;  刘翠红\
-2023年04月--至今&nbsp;  &nbsp;  刘翠红\
+2023年04月--至今&nbsp;  &nbsp;  刘翠红
