@@ -211,12 +211,7 @@
 
 每周都是最关键的一周
 
-> 也还行吧，刚开始的时候有一种实习<sup id="a3">[[3]](#f3)</sup><span class="notes-container">
-  <span class="note-trigger">特定标记</span>
-  <div class="note-content">
-    使用&lt;span class="notes-container"&gt;包裹注释内容
-  </div>
-</span>梦想的感受，整个人充满热情激情\
+> 也还行吧，刚开始的时候有一种实习<sup id="a3">[[3]](#f3)</sup>梦想的感受，整个人充满热情激情\
 > 直到我发现我其实身处炼狱\
 > 😎
 
